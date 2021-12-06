@@ -1,0 +1,1 @@
+Aqui eu vou estar postanto e atualizando os exercícios propostos no curso, e ao mesmo tempo treinando o versionamento com o Git.
